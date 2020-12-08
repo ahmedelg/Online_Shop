@@ -1,0 +1,25 @@
+{
+  "name": "online_shop",
+  "version": "1.0.0",
+  "description": "introduce service of shopping many awesome products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedelg/Online_Shop.git"
+  },
+  "keywords": [
+    "nodejs",
+    "shopping",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedelg/Online_Shop/issues"
+  },
+  "homepage": "https://github.com/ahmedelg/Online_Shop#readme"
+}
